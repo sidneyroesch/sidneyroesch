@@ -1,12 +1,14 @@
-# Hi, I'm Sidney Roesch 👋
+# Hi, I'm Sidney 👋
 
-### Frontend & Full-Stack Developer in Progress
+### Aspiring Frontend Developer | Building Towards Full-Stack Development
 
 I'm an aspiring developer passionate about building accessible, responsive and interactive web experiences.
 
-I'm interested in combining technology, design and problem-solving to create meaningful digital products with a strong focus on usability and user experience.
+I enjoy combining technology, design and problem-solving to create meaningful digital products, with a strong focus on user experience, usability and clean, maintainable code.
 
-Currently preparing for my Frontend Developer studies at **Medieinstitutet**, starting November 2026.
+I'm currently developing my skills in HTML, CSS, JavaScript and Python, and preparing to begin the **Frontend Developer programme at Medieinstitutet** in November 2026.
+
+My long-term goal is to become a versatile developer capable of designing and building complete, modern web applications — from intuitive frontend experiences to full-stack solutions.
 
 ---
 
@@ -18,32 +20,37 @@ Currently preparing for my Frontend Developer studies at **Medieinstitutet**, st
 - 🌱 Continuously learning and building practical projects.
 - 🎯 Working towards becoming a versatile developer capable of building complete web applications.
 
+---
+
 ## Technologies & Tools
 
-**Currently working with**
+### Currently Working With
 
 - HTML5
 - CSS3
 - JavaScript
 - Python
 
-**Development tools**
+### Development Tools
 
 - Visual Studio Code
 - Git & GitHub
 - PyCharm
 
-**Interested in developing further skills in**
+### Currently Interested in Developing Further Skills In
 
 - React
 - TypeScript
 - Node.js
-- APIs
+- REST APIs
 - Full-stack development
+
+---
 
 ## Featured Projects
 
 ### 1. 63° NORTH SWE CAMP
+
 A responsive website showcasing off-grid camping and overlanding experiences in northern Sweden.
 
 **Technologies:** HTML5, CSS3, JavaScript
@@ -51,6 +58,7 @@ A responsive website showcasing off-grid camping and overlanding experiences in 
 [View Repository](https://github.com/sidneyroesch/63-north-swe-camp)
 
 ### 2. Monochrome by Sidney Roesch
+
 A minimalist photography portfolio showcasing monochrome photography through a clean and elegant digital design.
 
 **Technologies:** HTML5, CSS3
@@ -58,6 +66,7 @@ A minimalist photography portfolio showcasing monochrome photography through a c
 [View Repository](https://github.com/sidneyroesch/monochrome-by-sidney-roesch)
 
 ### 3. Vandringsportalen
+
 A responsive hiking guide exploring Swedish hiking trails, national parks and outdoor destinations.
 
 **Technologies:** HTML5, CSS3, JavaScript
@@ -65,7 +74,8 @@ A responsive hiking guide exploring Swedish hiking trails, national parks and ou
 [View Repository](https://github.com/sidneyroesch/vandringsportalen)
 
 ### 4. Guerrilla Gardening Kenya
-A community-focused website promoting guerrilla gardening, native plants and sustainable urban spaces in Kenya.
+
+A community-focused website promoting guerrilla gardening, native plants and sustainable urban green spaces in Kenya.
 
 **Technologies:** HTML5, CSS3, JavaScript
 
@@ -87,12 +97,17 @@ I'm particularly interested in:
 
 I believe in continuous learning, hands-on experience and developing a strong understanding of the technologies behind the products we use every day.
 
+I'm looking forward to expanding my technical knowledge through my studies at Medieinstitutet and applying what I learn to increasingly complex projects.
+
+---
+
 ## Let's Connect
 
 I'm always interested in connecting with developers, sharing knowledge and exploring opportunities within the tech industry.
 
 - **GitHub:** [@sidneyroesch](https://github.com/sidneyroesch)
-- **Email:** sidney@sidneyroesch.com
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sidney-claudia-roesch-a4b9133b/)
+- **Email:** [sidney@sidneyroesch.com](mailto:sidney@sidneyroesch.com)
 
 ---
 
